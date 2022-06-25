@@ -21,7 +21,6 @@
 ## 👨🏻‍💻 &nbsp;My Stats
 
 <div>
-  <img height="150em" width="400em" src="https://github-readme-stats.vercel.app/api?username=uncle-light&show_icons=true&layout=compact&hide=stars&count_private=true" alt="uncle-light's GitHub Stats"/>
   <img height="150em"  width="400em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncle-light&layout=compact&count_private=true&hide=html" />
 </div>
 
