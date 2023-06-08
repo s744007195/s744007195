@@ -25,6 +25,9 @@
   <img height="150em"  width="400em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncle-light&layout=compact&count_private=true&hide=html" />
 </div>
 
+## 👨🏻‍💻 &nbsp;GitHub status:
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=wangrongding&theme=github&height=320)
 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=amadeus711&rank=SSS,SS,S,AAA,AA,A&margin-w=8&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) -->
