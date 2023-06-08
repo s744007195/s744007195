@@ -21,7 +21,7 @@
 
 
 
-## 👨🏻‍💻 &nbsp;GitHub status:
+## 👨🏻‍💻 &nbsp;GitHub status
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=uncle-light&theme=github&height=320)
 
